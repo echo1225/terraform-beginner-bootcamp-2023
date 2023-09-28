@@ -2,7 +2,7 @@
 
 This project is going to use semantic versioning for it's tagging
 [semvr.org](https://semver.org/)
-## Semantic Versioning
+## Semantic Versioning :mage:
 
 The General Format:
 
